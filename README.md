@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/allenasat044-prog/assets/main/gifs/beauty.gif" width="100%" height="250" alt="Banner">
+  <img src="assets/a.gif" width="100%" height="250" alt="Banner">
 </p>
 ## About Me:
 

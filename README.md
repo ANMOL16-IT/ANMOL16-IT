@@ -2,7 +2,7 @@
   <img src="assets/exo.gif" width="100%" height="250" alt="Banner">
 </p>
 ## About Me:
-<img align="right" src="https://raw.githubusercontent.com/allenasat044-prog/assets/main/gifs/deku.gif" width="300" alt="Gif">
+<img align="right" src="assets/a.gif" width="300" alt="Gif">
 
 Hi, I'm **Anmol** 👋, a beginner developer who loves building useful things.
 

@@ -1,5 +1,6 @@
-<img width="100%" alt="Banner" src="https://github.com/user-attachments/assets/a5ab0d8d-6e31-4395-ba0e-ff9f41a15b3a" />
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/allenasat044-prog/assets/main/gifs/beauty.gif" width="100%" height="250" alt="Banner">
+</p>
 ## About Me:
 
 Hi, I'm **Anmol** 👋, a beginner developer who loves building useful things.

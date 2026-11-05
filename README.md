@@ -2,7 +2,7 @@
   <img src="assets/exo.gif" width="100%" height="250" alt="Banner">
 </p>
 ## About Me:
-<img align="right" src="assets/a.gif" width="300" alt="Gif">
+<img align="right" src="assets/ven.gif" width="300" alt="Gif">
 
 Hi, I'm **Anmol** 👋, a beginner developer who loves building useful things.
 
@@ -43,5 +43,5 @@ Hi, I'm **Anmol** 👋, a beginner developer who loves building useful things.
 </p>
 
 <p align="center">
-  <img src="assets/car.gif" width="100%" height="250" alt="Banner">
+  <img src="assets/bec.gif" width="100%" height="250" alt="Banner">
 </p>

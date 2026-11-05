@@ -38,10 +38,19 @@ Hi, I'm **Anmol** 👋, a beginner developer who loves building useful things.
   <img src="assets/github-stats.svg" width="800" alt="Anmol's GitHub Stats" />
 </p>
 
-<p align="center">
-  <img height="170" src="assets/siu.gif" />
-  <img height="170" src="assets/mai.gif" />
-</p>
+
+
+<br>
+<table width="100%">
+  <tr>
+    <td width="50%" align="center">
+     <img src="assets/siu.gif" width="100%" alt="crazy deku ">
+    </td>
+    <td width="50%" align="center">
+ <img src="assets/mai.gif" width="100%" alt="luffy">
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <img src="assets/exo.gif" width="100%" height="250" alt="Banner">

@@ -41,3 +41,7 @@ Hi, I'm **Anmol** 👋, a beginner developer who loves building useful things.
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=ANMOL16-IT&theme=tokyonight&hide_border=true" />
 </p>
+
+<p align="center">
+  <img src="assets/car.gif" width="100%" height="250" alt="Banner">
+</p>

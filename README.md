@@ -44,7 +44,7 @@ Hi, I'm **Anmol** 👋, a beginner developer who loves building useful things.
 <table width="100%">
   <tr>
     <td width="50%" align="center">
-     <img src="assets/siu.gif" width="100%" alt="crazy deku ">
+     <img src="assets/siu.gif" width="80%" alt="crazy deku ">
     </td>
     <td width="50%" align="center">
  <img src="assets/mai.gif" width="100%" alt="luffy">

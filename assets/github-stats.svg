@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1105" height="227" viewBox="0 0 1105 227" role="img" aria-label="Anmol's GitHub Stats">
+  <style>
+    .title { font: 600 18px 'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif; fill: #f0f6fc; }
+    .num   { font: 700 38px 'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif; fill: #58a6ff; }
+    .lbl   { font: 400 15px 'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif; fill: #8b949e; }
+  </style>
+  <rect width="1105" height="227" fill="#0d1117"/>
+  <rect x="18" y="20" width="1056" height="187" rx="12" fill="#0d1117" stroke="#30363d" stroke-width="1.2"/>
+  <text x="46" y="64" class="title">Anmol's GitHub Stats</text>
+  <text x="129.3" y="125" text-anchor="middle" class="num">65</text><text x="129.3" y="151" text-anchor="middle" class="lbl">Contributions (1y)</text><text x="296.0" y="125" text-anchor="middle" class="num">2d</text><text x="296.0" y="151" text-anchor="middle" class="lbl">Current streak</text><text x="462.7" y="125" text-anchor="middle" class="num">3d</text><text x="462.7" y="151" text-anchor="middle" class="lbl">Longest streak</text><text x="629.3" y="125" text-anchor="middle" class="num">3</text><text x="629.3" y="151" text-anchor="middle" class="lbl">Stars earned</text><text x="796.0" y="125" text-anchor="middle" class="num">13</text><text x="796.0" y="151" text-anchor="middle" class="lbl">Repositories</text><text x="962.7" y="125" text-anchor="middle" class="num">0</text><text x="962.7" y="151" text-anchor="middle" class="lbl">Pull requests</text>
+</svg>

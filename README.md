@@ -1,6 +1,7 @@
 <p align="center">
   <img src="assets/hel.gif" width="100%" height="250" alt="Banner">
 </p>
+
 ## About Me:
 <img align="right" src="assets/blv.gif" width="300" alt="Gif">
 
@@ -34,12 +35,12 @@ Hi, I'm **Anmol** 👋, a beginner developer who loves building useful things.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="assets/siu.gif" />
-  <img height="170" src="assets/mai.gif" />
+  <img src="assets/github-stats.svg" width="800" alt="Anmol's GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ANMOL16-IT&theme=tokyonight&hide_border=true" /
+  <img height="170" src="assets/siu.gif" />
+  <img height="170" src="assets/mai.gif" />
 </p>
 
 <p align="center">
